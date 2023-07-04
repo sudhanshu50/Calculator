@@ -1,13 +1,13 @@
-# Calculator
+# TipCalculator
 
-Calculator is a Python library for dealing with word pluralization.
+TipCalculator is a javascript calculator for calculating tip amount for customer.
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install foobar
+pip install tipcalculator
 ```
 
 ## Usage
